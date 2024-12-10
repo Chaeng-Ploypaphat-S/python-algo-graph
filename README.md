@@ -1,2 +1,2 @@
-# python-algo-graph
-Practice graph-based algorithms
+# python-my-solutions
+Practice algorithms using Python
